@@ -118,3 +118,5 @@ Refatore o código acima utilizando:
 - **Stack/Pilha** para gerenciar o histórico de ações (garantindo LIFO com métodos semânticos como push e pop).
 
 O código refatorado deve ser mais expressivo, eficiente e fácil de manter.
+
+Fonte: https://www.cooperacode.club/desafios/2026-01-26-dominando-filas-e-pilhas.html
