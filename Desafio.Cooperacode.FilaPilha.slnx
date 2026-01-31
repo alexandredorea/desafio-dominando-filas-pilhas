@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="src/Desafio.Cooperacode.FilaPilha/Desafio.Cooperacode.FilaPilha.csproj" />
+  <Project Path="test/Desafio.Cooperacode.FilaPilha.TestUnit/Desafio.Cooperacode.FilaPilha.TestUnit.csproj" />
+</Solution>
